@@ -1,5 +1,5 @@
 # Tic-tac-toe
-Application designed and developed using 2 different machine learning algorithms and provides different modes (human vs. human, human vs. AI, AI vs. AI)
+Application designed and developed using 2 different machine learning algorithms and provides different modes (human vs. human, human vs. AI, AI vs. AI). minimaxttt.py and abttt.py are the actual applications, the other two programs were made to test the algorithms.
 
 This application was designed and developed as an assignment for the course CS 1XA3. The application testminimax.py and minimaxttt.py implement the Minimax algorithm while testab.py and abttt.py implement the Alpha-beta pruning algorithm. 
 
